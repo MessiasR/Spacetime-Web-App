@@ -9,6 +9,7 @@
 
   - HTML
   - Tailwind CSS
+  - TypeScript
   - JavaScript (Next, React, React Native e Node)
   - Git e GitHub
 
